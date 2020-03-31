@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Всеволод Рощупкин](https://up.htmlacademy.ru/ecmascript/11/user/151400).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Бахтин](https://htmlacademy.ru/profile/id1006021).
 
 ---
 
